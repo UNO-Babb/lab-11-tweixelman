@@ -1,0 +1,7 @@
+In the simulation, I adjusted to have a new customer every
+minute. I also added that customers have any from 5 to 40 items, 
+trying to account for people that are just getting a few quick things, 
+and customers that are shopping for the whole week. 
+I chose to have a new customer every minute because I feel 
+like whenever I go to the grocery store, this number is closer to 
+1 than 2, judging on how busy it is. I also adjusted, based on the results, to have 8 checkers working. Any fewer and the wait time is generally longer, but any more amd the number doesn't really change. 
